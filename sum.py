@@ -1,5 +1,4 @@
-def mysum():
-    numbers = [1, 2, 3]
+def mysum(numbers):
     output = 0
     for one_number in numbers:
         output += one_number
